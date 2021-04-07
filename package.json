@@ -20,7 +20,7 @@
   "author": "Thomas Eizinger",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^1.2.0",
+    "@actions/core": "^1.2.6",
     "@actions/exec": "^1.0.3",
     "remark-parse": "^7.0.2",
     "remark-stringify": "^7.0.4",
