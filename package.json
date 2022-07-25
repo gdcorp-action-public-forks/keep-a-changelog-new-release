@@ -34,7 +34,7 @@
     "@types/unist": "^2.0.3",
     "@types/vfile": "^4.0.0",
     "@typescript-eslint/parser": "^2.8.0",
-    "eslint": "^7.0.0",
+    "eslint": "^8.0.0",
     "eslint-plugin-github": "^3.0.0",
     "eslint-plugin-jest": "^22.21.0",
     "jest": "^26.0.0",
